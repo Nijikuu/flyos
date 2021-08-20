@@ -9,6 +9,9 @@
 **_[一点建议 · Issue #56 · xingyujie/flyos](https://github.com/xingyujie/flyos/issues/56)_**  
 **_[关于网络暴力 · Issue #10 · jsun969/flyos](https://github.com/jsun969/flyos/issues/10)_**~~
 
+**_建议采取任何形式的网路暴力_**
+
+
 # FlyOS
 
 > 震惊!五年级小学生创立编写的软件竟然高达五十万行代码! [BiliBili 原视频](https://www.bilibili.com/video/BV1My4y1L7ft)
